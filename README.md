@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align = "right" alt ="coding" width ="400" src ="https://imgur.com/a/Fhkcb1t">
+
 
 I'm Muhammad Ali, an aspiring Software Engineer from Lebanon. Welcome to my GitHub profile! Here, you'll find a collection of my projects, including code snippets, libraries, and applications.
 
